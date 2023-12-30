@@ -1,7 +1,7 @@
 
 # About Framework
 
-This framework is designed for web automation using Selenium and runs locally as well as on browserstack
+This framework is designed for web automation using Selenium (with browserstack support)
 
 ## Preconditions
 
