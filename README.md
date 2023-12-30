@@ -19,19 +19,19 @@ This framework designed for web automation using Selenium
 Clone the project
 
 ```bash
-  git clone https://github.com/Mukesh-50/JulyFramework.git
+  git clone https://github.com/priyankkumar218/AutomationFrameworkSelenium.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd AutomationFramework
+  cd AutomationFrameworkSelenium
 ```
 
 Execute the test
 
 ```bash
-  mvn clean test 
+   mvn clean install -Psample-test -DprofileIdEnabled=true 
 ```
 
 
