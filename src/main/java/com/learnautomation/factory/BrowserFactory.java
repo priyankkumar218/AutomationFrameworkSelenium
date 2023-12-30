@@ -4,6 +4,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.Duration;
 
+import lombok.Getter;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -20,13 +21,9 @@ import com.learnautomation.dataProvider.ConfigReader;
 public class BrowserFactory 
 {
 	
+	@Getter
 	public static WebDriver driver;
-	
-	public static WebDriver getDriver() {
-		
-		return driver;
-	}
-	
+
 
 	public static WebDriver getBrowser(String browserName,String appURL) {
 		

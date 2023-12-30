@@ -1,0 +1,106 @@
+15:08:31.440 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+15:08:31.443 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:08:31.686 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\priya\OneDrive\Desktop\AutomationFrameworkSelenium\browserstack.yml
+15:08:31.754 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:08:32.300 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:08:41.365 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:09:03.766 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:10:03.817 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/yum6gapdobvp0knazfifquqnygw1btc7brlvfuob to view build report, insights, and many more debugging information all at one place!
+
+15:10:05.377 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a4a011f965e40d6d831b7aced6bd390f23f84a72
+15:10:05.377 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:10:06.065 [Thread-5] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+15:20:01.434 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+15:20:01.437 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:20:01.671 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\priya\OneDrive\Desktop\AutomationFrameworkSelenium\browserstack.yml
+15:20:01.734 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:20:02.277 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:20:08.335 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:20:15.146 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:20:56.650 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/vghzxtoqf1cpndryhu3ho788v9nlqhnwkkklqlff to view build report, insights, and many more debugging information all at one place!
+
+15:20:57.994 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/eb3f1c0fccdee9498af94b3200e0133b5900bb98
+15:20:57.994 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:20:58.809 [Thread-5] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+15:31:04.882 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+15:31:04.886 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:31:05.121 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\priya\OneDrive\Desktop\AutomationFrameworkSelenium\browserstack.yml
+15:31:05.193 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:31:05.751 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:31:11.686 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:31:18.895 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:31:19.477 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/k7v1r57djvt2urbeujkuklypwguv96eqwh3v7ehy to view build report, insights, and many more debugging information all at one place!
+
+15:31:21.388 [Thread-5] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+15:31:58.239 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+15:31:58.243 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:31:58.473 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\priya\OneDrive\Desktop\AutomationFrameworkSelenium\browserstack.yml
+15:31:58.539 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:31:59.068 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:32:05.275 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:32:12.160 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:33:00.026 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ks9c1ug74zteqtovpykt8zen9z8jacwrirzieqgm to view build report, insights, and many more debugging information all at one place!
+
+15:33:01.299 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/cd38713e369b2cc7c14d8269f70e0f945ceaec51
+15:33:01.299 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:33:01.968 [Thread-5] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+16:22:22.868 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+16:22:22.872 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:22:23.108 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\priya\OneDrive\Desktop\AutomationFrameworkSelenium\browserstack.yml
+16:22:23.173 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:22:23.684 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:22:30.351 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:22:37.675 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:24:19.851 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/g44c60j9zsqcvat2aa4obcn4z2malvmykxg6ma3a to view build report, insights, and many more debugging information all at one place!
+
+16:24:21.029 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8bc977c211b8bb06450e36ae7541f49037c6574e
+16:24:21.029 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:24:22.143 [Thread-5] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+16:28:17.219 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+16:28:17.224 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:28:17.546 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\priya\OneDrive\Desktop\AutomationFrameworkSelenium\browserstack.yml
+16:28:17.623 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:28:18.339 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:28:24.046 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:28:31.485 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:29:40.750 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/0m5dsu6hrhjynltqwxvhbljdnpvucgqeh2xzalah to view build report, insights, and many more debugging information all at one place!
+
+16:29:41.915 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7a28e51de7f8936dafe71daabfff1b926c98c87f
+16:29:41.915 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:29:42.414 [Thread-5] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+16:35:26.704 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+16:35:26.708 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:35:26.963 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\priya\OneDrive\Desktop\AutomationFrameworkSelenium\browserstack.yml
+16:35:27.038 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:35:27.659 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:35:33.301 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:35:40.547 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:36:51.670 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gonrekg1raaoozp3s1qfuep7728gr4r4gg7vx321 to view build report, insights, and many more debugging information all at one place!
+
+16:36:52.860 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/ffb67460a702a4081874ba415c10d1a0f7579df3
+16:36:52.860 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:53.780 [Thread-5] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+16:40:21.195 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+16:40:21.197 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:40:21.450 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\priya\OneDrive\Desktop\AutomationFrameworkSelenium\browserstack.yml
+16:40:21.553 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:40:22.138 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:40:28.140 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:40:35.736 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:41:17.795 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ucvxkjge76njzswvaa3g2tlahsjihkgaaqizg1pt to view build report, insights, and many more debugging information all at one place!
+
+16:41:19.086 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/6df31630991ad0c1bf714ae52d7754f2c9e95590
+16:41:19.086 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:19.802 [Thread-5] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+16:44:57.553 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+16:44:57.556 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:44:57.817 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\priya\OneDrive\Desktop\AutomationFrameworkSelenium\browserstack.yml
+16:44:57.908 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:44:58.415 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:45:08.458 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:45:15.275 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:45:52.762 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hx6xxldihfkhdhdjsdnanqnstiu0ejaxexyyylgu to view build report, insights, and many more debugging information all at one place!
+
+16:45:53.959 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/3246b612041abb033c0d0cf8002078910a45c525
+16:45:53.961 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:45:54.746 [Thread-5] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
