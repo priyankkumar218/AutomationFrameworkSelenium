@@ -1,4 +1,3 @@
-
 # About Framework
 
 This framework is designed for web automation using Selenium (with browserstack support)
@@ -7,9 +6,8 @@ This framework is designed for web automation using Selenium (with browserstack 
 
 - Java should be installed (Recommended JDK11)
 - Maven should be installed
-- Git 
+- Git
 - All browsers (Chrome,Firefox, Edge)
-
 
 ## To Execute the test
 
@@ -27,8 +25,16 @@ This framework is designed for web automation using Selenium (with browserstack 
 
 ### Execute the test
 
+#### Locally
+
 ```bash
-   mvn clean install -Psample-test -DprofileIdEnabled=true 
+   mvn clean test -P sample-local-test -X 
+```
+
+#### Remote
+
+```bash
+   mvn clean test -Psample-test -X 
 ```
 
 ## Test execution result on browserstack
